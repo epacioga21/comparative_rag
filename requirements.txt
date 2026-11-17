@@ -1,0 +1,13 @@
+pymupdf
+nltk
+scikit-learn
+gensim
+transformers
+sentence-transformers
+torch
+tqdm
+requests
+pandas
+numpy
+matplotlib
+jupyter
